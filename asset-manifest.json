@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather_forecast/static/css/main.a30c804d.css",
+    "main.js": "/weather_forecast/static/js/main.e0991198.js",
+    "static/media/cloud.png": "/weather_forecast/static/media/cloud.6ac866ac9653bdf6bc92.png",
+    "index.html": "/weather_forecast/index.html",
+    "main.a30c804d.css.map": "/weather_forecast/static/css/main.a30c804d.css.map",
+    "main.e0991198.js.map": "/weather_forecast/static/js/main.e0991198.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a30c804d.css",
+    "static/js/main.e0991198.js"
+  ]
+}
